@@ -4,6 +4,9 @@
 > 【前端】[冴羽的博客](https://github.com/mqyqingfeng/Blog)  
 > 【搞笑】[当一群程序员试图去做一个 Logo 时，闹剧发生了](http://mp.weixin.qq.com/s/TrbRg0NOhHIR2zbcLyp4tA)   
 > 【前端】[开发者必备的程序调试利器，来找到适合你的那一款！](http://mp.weixin.qq.com/s/Xge0ek_b8aRGZ_KsnfNiNg)   
+> 【设计】[设计中留白的细节](http://mp.weixin.qq.com/s/8yU6pm8xpoHLzahnLDujkw)  
+> 【前端】[vue 自定义指令的魅力](https://mp.weixin.qq.com/s/8G79kSJVV15ZgbxvFvSJZg)    
+> 【产品】[AI设计师“鲁班”的前世今生](http://mp.weixin.qq.com/s/SEEb69zqfy9OFVU1WaGFAw)  
 
 
 ### 2017 年 10 月
