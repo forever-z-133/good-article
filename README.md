@@ -8,7 +8,11 @@
 > 【前端】[vue 自定义指令的魅力](https://mp.weixin.qq.com/s/8G79kSJVV15ZgbxvFvSJZg)    
 > 【产品】[AI设计师“鲁班”的前世今生](http://mp.weixin.qq.com/s/SEEb69zqfy9OFVU1WaGFAw)  
 > 【人生】[想，都是问题，做，才是答案](http://mp.weixin.qq.com/s/hElRqcL4Zdl_JgxmapV9EA)  
-> 【前端】[如何打造一个全满分网站](http://mp.weixin.qq.com/s/NR_9y83sja-LjVzBs4viwA) 
+> 【前端】[如何打造一个全满分网站](http://mp.weixin.qq.com/s/NR_9y83sja-LjVzBs4viwA)  
+> 【产品】[微信小程序吞掉H5？](http://mp.weixin.qq.com/s/-94qXuqwOfqmvdShCTavTA)  
+> 【前端】[前端老司机与算法的四个故事](https://mp.weixin.qq.com/s/jnANr4RJyX0D3fDNvFQATA)  
+> 【前端】[前端技术API笔记本](http://mp.weixin.qq.com/s/4eiLONB98RyEGsLUJMRH4w)  
+> 【人生】[傅盛：自我进化是一切](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646426&idx=1&sn=8e2675b64537f97d5624ad3410dc37b8)  
 
 
 ### 2017 年 10 月
