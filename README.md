@@ -1,4 +1,4 @@
-# 每天一篇觉得写得很棒的文章
+# 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
 > 【前端】[冴羽的博客](https://github.com/mqyqingfeng/Blog)  
@@ -13,6 +13,8 @@
 > 【前端】[前端老司机与算法的四个故事](https://mp.weixin.qq.com/s/jnANr4RJyX0D3fDNvFQATA)  
 > 【前端】[前端技术API笔记本](http://mp.weixin.qq.com/s/4eiLONB98RyEGsLUJMRH4w)  
 > 【人生】[傅盛：自我进化是一切](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646426&idx=1&sn=8e2675b64537f97d5624ad3410dc37b8)  
+> 【其他】[怎么看待腾讯三百亿入局内容平台下半场](http://mp.weixin.qq.com/s/4rsUWKILyxxdHBRFafyvHQ)  
+> 【产品】[场景之争的核心：用户在什么时间会用我们的产品？](https://mp.weixin.qq.com/s/2JDjGN5bt6XOIo1nMcl8_A)  
 
 
 ### 2017 年 10 月
