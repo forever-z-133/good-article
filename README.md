@@ -15,6 +15,9 @@
 > 【人生】[傅盛：自我进化是一切](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646426&idx=1&sn=8e2675b64537f97d5624ad3410dc37b8)  
 > 【其他】[怎么看待腾讯三百亿入局内容平台下半场](http://mp.weixin.qq.com/s/4rsUWKILyxxdHBRFafyvHQ)  
 > 【产品】[场景之争的核心：用户在什么时间会用我们的产品？](https://mp.weixin.qq.com/s/2JDjGN5bt6XOIo1nMcl8_A)  
+> 【产品】[让设计更有趣味性的5个Tips](http://mp.weixin.qq.com/s/py_fG_9fO3CHpd2GO1rqfA)  
+> 【产品】[YouTube 可跳过广告，背后有哪些精妙无比的设计？](http://mp.weixin.qq.com/s/sxo8uEgKiavPpRjRm06PLQ)  
+> 【设计】[如何让你的设计更精致](http://mp.weixin.qq.com/s/pHe7pkAUDimArJSVv-odKg)  
 
 
 ### 2017 年 10 月
