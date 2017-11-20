@@ -19,6 +19,7 @@
 > 【产品】[YouTube 可跳过广告，背后有哪些精妙无比的设计？](http://mp.weixin.qq.com/s/sxo8uEgKiavPpRjRm06PLQ)  
 > 【设计】[如何让你的设计更精致](http://mp.weixin.qq.com/s/pHe7pkAUDimArJSVv-odKg)  
 > 【产品】[思考：产品定位对产品构建的影响](http://www.woshipm.com/pd/834542.html)  
+> 【前端】[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)  
 
 
 ### 2017 年 10 月
