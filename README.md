@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
+> 【产品】[内容的传播其实是情绪的延伸](http://mp.weixin.qq.com/s/_dn5T_nEHDHiRhRdl0Ix4w)  
+> 【前端】[从 JSON.parse 错误深入研究 JS 的转义字符](http://mp.weixin.qq.com/s/ALyJseVEP2IGpyD_taOxKA)  
 > 【前端】[冴羽的博客](https://github.com/mqyqingfeng/Blog)  
 > 【搞笑】[当一群程序员试图去做一个 Logo 时，闹剧发生了](http://mp.weixin.qq.com/s/TrbRg0NOhHIR2zbcLyp4tA)   
 > 【前端】[开发者必备的程序调试利器](http://mp.weixin.qq.com/s/Xge0ek_b8aRGZ_KsnfNiNg)   
@@ -19,7 +21,8 @@
 > 【产品】[YouTube 可跳过广告，背后有哪些精妙无比的设计？](http://mp.weixin.qq.com/s/sxo8uEgKiavPpRjRm06PLQ)  
 > 【设计】[如何让你的设计更精致](http://mp.weixin.qq.com/s/pHe7pkAUDimArJSVv-odKg)  
 > 【产品】[思考：产品定位对产品构建的影响](http://www.woshipm.com/pd/834542.html)  
-> 【前端】[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)  
+> 【前端】[深入理解javascript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/3977924.html)    
+> 【产品】[广告表达小策略分类总结](http://mp.weixin.qq.com/s/n0wmzjIwPiqY0_729zVAmg)  
 
 
 ### 2017 年 10 月
