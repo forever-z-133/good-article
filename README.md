@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
+
+> 【人生】 [知识体系构建介绍](http://mp.weixin.qq.com/s/augato_STeva85mmpYON1g)  
+> 【人生】 [程序员该如何管理你的老板？](https://mp.weixin.qq.com/s/ILjF9C1hNaOZJtTo-UZm3w)  
 > 【产品】[内容的传播其实是情绪的延伸](http://mp.weixin.qq.com/s/_dn5T_nEHDHiRhRdl0Ix4w)  
 > 【前端】[从 JSON.parse 错误深入研究 JS 的转义字符](http://mp.weixin.qq.com/s/ALyJseVEP2IGpyD_taOxKA)  
 > 【前端】[冴羽的博客](https://github.com/mqyqingfeng/Blog)  
