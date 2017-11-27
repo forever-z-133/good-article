@@ -2,6 +2,7 @@
 
 ### 2017 年 11 月
 
+> 【产品】 [明明是客户要的颜色，为什么他还不满意？](http://mp.weixin.qq.com/s/uGjm8y7guzWFJrVb9OKD0w)  
 > 【人生】 [知识体系构建介绍](http://mp.weixin.qq.com/s/augato_STeva85mmpYON1g)  
 > 【人生】 [程序员该如何管理你的老板？](https://mp.weixin.qq.com/s/ILjF9C1hNaOZJtTo-UZm3w)  
 > 【产品】[内容的传播其实是情绪的延伸](http://mp.weixin.qq.com/s/_dn5T_nEHDHiRhRdl0Ix4w)  
