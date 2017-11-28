@@ -1,7 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
-
+> 【前端】[Git的4个阶段的撤销更改](http://mp.weixin.qq.com/s/Bwg0pjwjat8rnY_9aB-sBA)  
+> 【前端】[JS 的内存泄漏以及如何处理](http://mp.weixin.qq.com/s/X1m6Q2ksqkudouZF2zdirQ)  
+> 【前端】[Progressive Web Apps (PWA) 中文版](https://github.com/SangKa/PWA-Book-CN)  
+> 【产品】[运动动画对应的心理预期](http://mp.weixin.qq.com/s/54acdnB6QQltm9vMcKpYpw)  
 > 【产品】 [明明是客户要的颜色，为什么他还不满意？](http://mp.weixin.qq.com/s/uGjm8y7guzWFJrVb9OKD0w)  
 > 【人生】 [知识体系构建介绍](http://mp.weixin.qq.com/s/augato_STeva85mmpYON1g)  
 > 【人生】 [程序员该如何管理你的老板？](https://mp.weixin.qq.com/s/ILjF9C1hNaOZJtTo-UZm3w)  
