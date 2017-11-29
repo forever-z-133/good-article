@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
+> 【人生】 [2018 年你应该了解的十大技术趋势
+](http://mp.weixin.qq.com/s/3ocU-wqGiV8rW8anrSQfTg)  
 > 【前端】[Git的4个阶段的撤销更改](http://mp.weixin.qq.com/s/Bwg0pjwjat8rnY_9aB-sBA)  
 > 【前端】[JS 的内存泄漏以及如何处理](http://mp.weixin.qq.com/s/X1m6Q2ksqkudouZF2zdirQ)  
 > 【前端】[Progressive Web Apps (PWA) 中文版](https://github.com/SangKa/PWA-Book-CN)  
