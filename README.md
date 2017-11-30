@@ -1,15 +1,18 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
-> 【人生】 [2018 年你应该了解的十大技术趋势
+> 【前端】[探究 CSS 解析原理](http://mp.weixin.qq.com/s/n6AF2WhwJBe1DYisoeUAHQ)  
+> 【前端】[观察者模式和发布订阅模式的区别](http://mp.weixin.qq.com/s/cm6VhpCXnC-GixX7avq5bw)  
+> 【人生】[女儿第一次去未来婆婆家](http://mp.weixin.qq.com/s/-4ioog2MffxtITb3v0Fy8A)  
+> 【人生】[2018 年你应该了解的十大技术趋势
 ](http://mp.weixin.qq.com/s/3ocU-wqGiV8rW8anrSQfTg)  
 > 【前端】[Git的4个阶段的撤销更改](http://mp.weixin.qq.com/s/Bwg0pjwjat8rnY_9aB-sBA)  
 > 【前端】[JS 的内存泄漏以及如何处理](http://mp.weixin.qq.com/s/X1m6Q2ksqkudouZF2zdirQ)  
 > 【前端】[Progressive Web Apps (PWA) 中文版](https://github.com/SangKa/PWA-Book-CN)  
 > 【产品】[运动动画对应的心理预期](http://mp.weixin.qq.com/s/54acdnB6QQltm9vMcKpYpw)  
-> 【产品】 [明明是客户要的颜色，为什么他还不满意？](http://mp.weixin.qq.com/s/uGjm8y7guzWFJrVb9OKD0w)  
-> 【人生】 [知识体系构建介绍](http://mp.weixin.qq.com/s/augato_STeva85mmpYON1g)  
-> 【人生】 [程序员该如何管理你的老板？](https://mp.weixin.qq.com/s/ILjF9C1hNaOZJtTo-UZm3w)  
+> 【产品】[明明是客户要的颜色，为什么他还不满意？](http://mp.weixin.qq.com/s/uGjm8y7guzWFJrVb9OKD0w)  
+> 【人生】[知识体系构建介绍](http://mp.weixin.qq.com/s/augato_STeva85mmpYON1g)  
+> 【人生】[程序员该如何管理你的老板？](https://mp.weixin.qq.com/s/ILjF9C1hNaOZJtTo-UZm3w)  
 > 【产品】[内容的传播其实是情绪的延伸](http://mp.weixin.qq.com/s/_dn5T_nEHDHiRhRdl0Ix4w)  
 > 【前端】[从 JSON.parse 错误深入研究 JS 的转义字符](http://mp.weixin.qq.com/s/ALyJseVEP2IGpyD_taOxKA)  
 > 【前端】[冴羽的博客](https://github.com/mqyqingfeng/Blog)  
