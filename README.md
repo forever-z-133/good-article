@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 11 月
+> 【其他】[中国的医改与医疗卫生制度有问题](http://card.weibo.com/article/h5/s#cid=1001603876620737079421)  
+> 【前端】[火狐量子为变快做了哪些](http://mp.weixin.qq.com/s/zfGlg-H_yeLGN65LJ6eSFQ)  
 > 【前端】[探究 CSS 解析原理](http://mp.weixin.qq.com/s/n6AF2WhwJBe1DYisoeUAHQ)  
 > 【前端】[观察者模式和发布订阅模式的区别](http://mp.weixin.qq.com/s/cm6VhpCXnC-GixX7avq5bw)  
 > 【人生】[女儿第一次去未来婆婆家](http://mp.weixin.qq.com/s/-4ioog2MffxtITb3v0Fy8A)  
