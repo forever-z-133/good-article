@@ -3,6 +3,7 @@
 ### 2017 年 12 月
 > 【前端】[H5玩法知多少](http://mp.weixin.qq.com/s/N8jQ1y687dsTiKDCsonFYg)  
 > 【人生】[100%概率获得100万，50%概率获得1亿，你怎么选？](http://mp.weixin.qq.com/s/FEF3T07nhn-kBtt7IIkh4Q)  
+> 【产品】[用户嫌贵，并不是真的贵了](http://mp.weixin.qq.com/s/XH3w6NdXlVlyZiHDLp_f_A)  
 
 ### 2017 年 11 月
 > 【其他】[中国的医改与医疗卫生制度有问题](http://card.weibo.com/article/h5/s#cid=1001603876620737079421)  
