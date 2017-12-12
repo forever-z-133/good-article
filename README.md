@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 12 月
+> 【前端】[parceljs 打包 react 项目](http://mp.weixin.qq.com/s/5RBa2vSVO73obTDOWDYxuA)  
+> 【前端】[初识 parceljs](http://mp.weixin.qq.com/s/JOw7mbuCLE6fq1L9pMUxKg)  
+> 【前端】[rem 移动端布局详解](https://mp.weixin.qq.com/s/QDh5jDuUyQd96zZ1dWX2TA)  
+> 【前端】[也许你不知道，JS animation比CSS更快！](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650585331&amp;idx=1&amp;sn=c2d55ab4c5458d3dcda25188fd608079&source=41)  
+> 【前端】[6 大主流 Web 框架优缺点对比](http://mp.weixin.qq.com/s/RWoooGXx-medoahEkSCLKw)  
+> 【前端】[谈谈那些奇怪的字符](http://mp.weixin.qq.com/s/eXq6AqUq-xqakJIzusrhzw)  
+> 【产品】[你是如何被微信广告选中的？](http://mp.weixin.qq.com/s/jykp_783qVPRzuzyfjnUpQ)  
 > 【前端】[H5玩法知多少](http://mp.weixin.qq.com/s/N8jQ1y687dsTiKDCsonFYg)  
 > 【人生】[100%概率获得100万，50%概率获得1亿，你怎么选？](http://mp.weixin.qq.com/s/FEF3T07nhn-kBtt7IIkh4Q)  
 > 【产品】[用户嫌贵，并不是真的贵了](http://mp.weixin.qq.com/s/XH3w6NdXlVlyZiHDLp_f_A)  
