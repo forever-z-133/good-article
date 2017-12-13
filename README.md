@@ -1,6 +1,7 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 12 月
+> 【前端】[成为SVG大触 - 工具类](http://mp.weixin.qq.com/s/xRssr8J87sMBfofhLlBP3A)  
 > 【前端】[parceljs 打包 react 项目](http://mp.weixin.qq.com/s/5RBa2vSVO73obTDOWDYxuA)  
 > 【前端】[初识 parceljs](http://mp.weixin.qq.com/s/JOw7mbuCLE6fq1L9pMUxKg)  
 > 【前端】[rem 移动端布局详解](https://mp.weixin.qq.com/s/QDh5jDuUyQd96zZ1dWX2TA)  
