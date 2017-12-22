@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2017 年 12 月
+> 【前端】[JavaScript的隐形成本](http://mp.weixin.qq.com/s/_hYCBgcZcAyR0RudSFx9Uw)  
+> 【前端】[img 标签动态图片到 video 的进化](https://mp.weixin.qq.com/s/lbzK1tsRvLmRKYo7PPgrFQ)  
+> 【前端】[如何用语文知识改善代码可读性](http://mp.weixin.qq.com/s/nhNLVEzgvmyp76pmsKXOfA)  
 > 【前端】[Turbo，一个速度极快超越 NPM 的客户端](https://stackblitz.com/)  
 > 【产品】[所有人，都猜错了小程序的风口](http://mp.weixin.qq.com/s/5817muS23j_djtNI352aEQ)  
 > 【设计】[今天，简单聊聊配色吧！](https://mp.weixin.qq.com/s/JwD4F1f4Cvx5Iauv-jkkdA)  
