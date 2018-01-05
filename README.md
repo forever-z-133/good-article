@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月
+> 【其他】[预见2018：小程序爆发，二马决战一触即发](https://mp.weixin.qq.com/s/yVb4OttqcgJrnlZGXAnOLg)  
+> 【前端】[GitHub 为编程世界带来了什么改变？](http://mp.weixin.qq.com/s/Ed_qK-Y8hh1hW_CCs6o7KA)  
 > 【前端】[2018 年最值得关注的 JavaScript 趋势](http://mp.weixin.qq.com/s/jzine3cqO3DrU7rA5iCdTw)  
 > 【前端】[360前端团队博客](https://www.75team.com/archives/)  
 > 【前端】[webpack 为什么这么难用？](http://mp.weixin.qq.com/s/rBX5wkzqItNlxT65HJHZ7w)  
