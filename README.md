@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月
+> 【前端】[免费 SSL 证书](https://mp.weixin.qq.com/s/jM-fJ0vK_e2O_d-N9YsE_A)  
+> 【前端】[面向对象圣经](http://mp.weixin.qq.com/s/jFKVvL9Fkb7lxFgylHpnXA)  
+> 【人生】[出轨经济学](http://mp.weixin.qq.com/s/E-zqaX3ME_S0FGu5eHPlmA)  
+> 【其他】[如何设计一个永不崩盘的庞氏骗局](https://mp.weixin.qq.com/s/FK2GVlZJpa1UPK3gMEo-4w)  
 > 【其他】[预见2018：小程序爆发，二马决战一触即发](https://mp.weixin.qq.com/s/yVb4OttqcgJrnlZGXAnOLg)  
 > 【前端】[GitHub 为编程世界带来了什么改变？](http://mp.weixin.qq.com/s/Ed_qK-Y8hh1hW_CCs6o7KA)  
 > 【前端】[2018 年最值得关注的 JavaScript 趋势](http://mp.weixin.qq.com/s/jzine3cqO3DrU7rA5iCdTw)  
