@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月
+> 【前端】[Grid和Flexbox解决实际的布局问题](http://mp.weixin.qq.com/s/N4ZF3NhUwn9XctBAR40VVw)  
+> 【其他】[全民直播答题，让你离智障越来越近](http://mp.weixin.qq.com/s/btlRq3TniqqrkRnYUdx1AA)  
 > 【前端】[前端算法之热力图的实现](https://mp.weixin.qq.com/s/aqf-LjEcESwkaaQu8IpzKg)  
 > 【前端】[不到200行代码的富文本编辑器](http://mp.weixin.qq.com/s/GcozBnjXh7odW9OrORTqXg)  
 > 【其他】[10分钟搞定ICO](https://zhuanlan.zhihu.com/p/32796998?from=timeline&isappinstalled=0)  
