@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月
+> 【产品】[张小龙2018微信公开课](http://mp.weixin.qq.com/s/hp1toRlkre7_oB6xhHtbWg)  
+> 【人生】[为什么甲乙双方都看彼此是傻X？](http://mp.weixin.qq.com/s/8030d4osw4iYW1uhgBmCOA)  
 > 【前端】[Grid和Flexbox解决实际的布局问题](http://mp.weixin.qq.com/s/N4ZF3NhUwn9XctBAR40VVw)  
 > 【其他】[全民直播答题，让你离智障越来越近](http://mp.weixin.qq.com/s/btlRq3TniqqrkRnYUdx1AA)  
 > 【前端】[前端算法之热力图的实现](https://mp.weixin.qq.com/s/aqf-LjEcESwkaaQu8IpzKg)  
