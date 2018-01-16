@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
-### 2018 年 1 月
+### 2018 年 1 月 
+> 【产品】[2011到2018，张小龙的产品思路](http://36kr.com/p/5114106.html)  
+> 【搞笑】[「区块链」和秃顶的设计师们](http://mp.weixin.qq.com/s/_AhRms59QFu-LMMwfEXDuw)  
+> 【产品】[那些你想太多的“过度设计”](http://mp.weixin.qq.com/s/oXPe5T928zIpsZN2uH3jRg)  
+> 【前端】[display 的 32 个值](https://segmentfault.com/a/1190000012833458)  
 > 【产品】[张小龙2018微信公开课](http://mp.weixin.qq.com/s/hp1toRlkre7_oB6xhHtbWg)  
 > 【人生】[为什么甲乙双方都看彼此是傻X？](http://mp.weixin.qq.com/s/8030d4osw4iYW1uhgBmCOA)  
 > 【前端】[Grid和Flexbox解决实际的布局问题](http://mp.weixin.qq.com/s/N4ZF3NhUwn9XctBAR40VVw)  
