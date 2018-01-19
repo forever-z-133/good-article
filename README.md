@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月 
+> 【前端】[你的Tree-Shaking并没什么卵用](http://mp.weixin.qq.com/s/D0vzsj0aZ0sVSRDCPAep3A)  
+> 【前端】[字符编码的历史故事](http://mp.weixin.qq.com/s/P0PbNjajkILusn533mNqVA)  
 > 【产品】[2011到2018，张小龙的产品思路](http://36kr.com/p/5114106.html)  
 > 【搞笑】[「区块链」和秃顶的设计师们](http://mp.weixin.qq.com/s/_AhRms59QFu-LMMwfEXDuw)  
 > 【产品】[那些你想太多的“过度设计”](http://mp.weixin.qq.com/s/oXPe5T928zIpsZN2uH3jRg)  
