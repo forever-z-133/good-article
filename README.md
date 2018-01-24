@@ -1,6 +1,11 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月 
+> 【前端】[2018你需要和不需要深入的前端技术](http://mp.weixin.qq.com/s/Ahc8HvF3SXCHxMvYtRcg1w)  
+> 【其他】[我豆瓣关注你了奥。](http://mp.weixin.qq.com/s/toYrvJVjb6Hlvww_BYvE2Q)  
+> 【前端】[如何继承 Date 对象？](http://mp.weixin.qq.com/s/fy7a85yrkPkLUylagFaqsQ)  
+> 【前端】[Lodash 源码中的那些迷人的细节](http://mp.weixin.qq.com/s/793pRZr-G85eGQw46N39Fw)  
+> 【前端】[10 分钟理解 JS 引擎的执行机制](http://mp.weixin.qq.com/s/WJHD3IFefoVm2MHBgf6oDw)  
 > 【前端】[用CSS来做事件埋点](https://github.com/jbtronics/CrookedStyleSheets/blob/master/docs/README.zh.md)  
 > 【前端】[基于details和summary的无JS交互](http://www.zhangxinxu.com/wordpress/2018/01/html5-details-summary-no-js-ux/)  
 > 【其他】[Chrome正走在IE6的老路上](http://mp.weixin.qq.com/s/uc5F97WtTJMjuSqp14QUxA)  
