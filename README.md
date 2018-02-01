@@ -1,7 +1,7 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 1 月 
-> 【其他】[上海是怎么错失这些年的互联网机遇的？](https://mp.weixin.qq.com/s/Gdd2VgohG0nAPae1VW6ePA)  
+> 【前端】[你该如何证明你是你?](http://mp.weixin.qq.com/s/f9I7d2mGKyWLstp-WOYPEA)  
 > 【其他】[上海是怎么错失这些年的互联网机遇的？](https://mp.weixin.qq.com/s/Gdd2VgohG0nAPae1VW6ePA)  
 > 【前端】[JS 在微信/微博/QQ唤起 App 的解决方案](http://mp.weixin.qq.com/s/dMBj-coZ-LLF-kpFzNQdkg)  
 > 【前端】[编写小而美函数的艺术](http://mp.weixin.qq.com/s/Lu2sUxE7FhTmSY3tJLZsxQ)  
