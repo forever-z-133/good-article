@@ -1,5 +1,16 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 3 月 
+> 【其他】[挖矿是如何产生比特币的？](https://www.zhihu.com/question/20792042/answer/292141154?utm_source=wechat_session&utm_medium=social)  
+> 【前端】[2018新版移动Web应用发展路线图](http://mp.weixin.qq.com/s/7YNWpVBHAlpJ6Ghf1b-n7g)  
+> 【产品】[咪蒙首次公开谈爆款方法论](http://mp.weixin.qq.com/s/6L399syhvp3nq7-k-fTGQA)  
+> 【前端】[Node 定时器详解](http://mp.weixin.qq.com/s/FZefHsoVqtkcjUJK3KwRFw)  
+> 【其他】[一个试图用AI取代程序员的故事](http://mp.weixin.qq.com/s/M_2mygXpdRVe6Sk_bsNRPg)  
+> 【前端】[手淘过年项目中采用到的前端技术](http://mp.weixin.qq.com/s/9uR2uQt47Tt5pVsTiw07jw)  
+> 【前端】[JavaScript 中的私有变量](http://mp.weixin.qq.com/s/1d32L5ChYwKdgFlwVp6P4Q)  
+> 【前端】[在css中什么是好的注释？](http://mp.weixin.qq.com/s/DQyLqz_2VpxXOM4xGrg6Lw)  
+> 【前端】[SPA 性能指南](http://mp.weixin.qq.com/s/H8b8J5tUTCFZMVI-8SvTsQ)  
+
 ### 2018 年 2 月 
 > 【前端】[正则表达式-从模糊到清晰](http://mp.weixin.qq.com/s/pARKd9ho1S766yrQQF33ZQ)  
 > 【前端】[完美CSS文档的8个最佳实践](http://mp.weixin.qq.com/s/JNm6OVlbbxXICyKJ4RvY_g)  
@@ -21,7 +32,7 @@
 > 【人生】[设计思维如何自我拯救](https://mp.weixin.qq.com/s/Mzcmfu4Yh5lrsbMQW-JRdg)  
 > 【产品】[产品思维已死，产品人的出路在这里](http://mp.weixin.qq.com/s/EQJK0tGs_3aE2uqGtL-z6Q)  
 > 【其他】[现代社会的隐私权](https://mp.weixin.qq.com/s/5v_xKEiuj3gDxBPp2F0WjA)  
-> 【高校】[过年回家装逼指南](http://mp.weixin.qq.com/s/cbg5hAGlvcy1d2vmyIPsBA)  
+> 【搞笑】[过年回家装逼指南](http://mp.weixin.qq.com/s/cbg5hAGlvcy1d2vmyIPsBA)  
 > 【其他】[带你玩转技术型炒币](http://mp.weixin.qq.com/s/FoJ-UJl1GZUsgvGAZZw9bg)  
 > 【设计】[谁才是最酷的设计趋势？](http://mp.weixin.qq.com/s/cGP5pZphU6WL5vc867qgKQ)  
 
