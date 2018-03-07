@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 3 月 
+> 【前端】[用Python创建微信聊天机器人](http://mp.weixin.qq.com/s/qtXQH4x_ZP5HbFByyvAjLg)  
+> 【前端】[别天真了，第三方 CSS 并不安全](http://mp.weixin.qq.com/s/z0qix2VgdJyZu0YjHaWfFw)  
+> 【其他】[吴晓波：中国经济变革有四大动力](http://mp.weixin.qq.com/s/qd6c2FmwXubjAHpuwQPSFQ)  
+> 【前端】[如何写一手漂亮的 Vue](https://jeffjade.com/2017/03/11/120-how-to-write-vue-better/)  
 > 【其他】[挖矿是如何产生比特币的？](https://www.zhihu.com/question/20792042/answer/292141154?utm_source=wechat_session&utm_medium=social)  
 > 【前端】[2018新版移动Web应用发展路线图](http://mp.weixin.qq.com/s/7YNWpVBHAlpJ6Ghf1b-n7g)  
 > 【产品】[咪蒙首次公开谈爆款方法论](http://mp.weixin.qq.com/s/6L399syhvp3nq7-k-fTGQA)  
