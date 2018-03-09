@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 3 月 
+> 【设计】[生成个性二维码了解一下](http://mp.weixin.qq.com/s/TiXILy4l6Q3dxVwapyd9KQ)  
+> 【前端】[package.json里的一些属性讲解](https://mp.weixin.qq.com/s/SOQ4LalnPIGdW66ENJ5Icw)  
+> 【前端】[AJAX请求是否真的不安全？](http://www.jb51.net/article/132099.htm)  
 > 【前端】[用Python创建微信聊天机器人](http://mp.weixin.qq.com/s/qtXQH4x_ZP5HbFByyvAjLg)  
 > 【前端】[别天真了，第三方 CSS 并不安全](http://mp.weixin.qq.com/s/z0qix2VgdJyZu0YjHaWfFw)  
 > 【其他】[吴晓波：中国经济变革有四大动力](http://mp.weixin.qq.com/s/qd6c2FmwXubjAHpuwQPSFQ)  
