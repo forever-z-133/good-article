@@ -1,6 +1,7 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[不可思议的混合模式 background-blend-mode](https://github.com/chokcoco/iCSS/issues/31)  
 > 【前端】[开发者生态五大重要标准](https://mp.weixin.qq.com/s/tae5z5CXNBUJoS_F2ghBQg)  
 > 【产品】[后开源时代，开源的未来往哪边？](https://mp.weixin.qq.com/s/0C2mxVDPFyf7v8lg1njaLA)  
 > 【前端】[前端 ES6 面试题](https://mp.weixin.qq.com/s/HJ68IqZl9hN95kMGrJO5XA)  
