@@ -1,6 +1,15 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【搞笑】[我们都是吝啬的傻 X](https://mp.weixin.qq.com/s/D8w0qOB691jKM2DTNzQ6_g)  
+> 【产品】[关于产品的签到思考](https://mp.weixin.qq.com/s/fnYsb_umAxchJqxexy7qVA)  
+> 【产品】[为什么说中国to B时代终于来了？](https://mp.weixin.qq.com/s/cgQOh62fb_vuzywTwCcjow)  
+> 【产品】[中国互联网下一个十年](https://mp.weixin.qq.com/s/8zFOLsQstOuE2ICqBsxXAg)  
+> 【前端】[如何选择 Web 前端模板引擎？](https://mp.weixin.qq.com/s/aSW3hvrReFeud6vbfEglHA)  
+> 【其他】[谁是中部崛起的领头羊？](https://mp.weixin.qq.com/s/qpgczHMRH-I6B8szAOcDpQ)  
+> 【前端】[Vue.js 源码解析](https://github.com/answershuto/learnVue)  
+> 【搞笑】[特朗普输给了金正恩的右手](https://mp.weixin.qq.com/s/0DFT0Ek6jYlN9S__D1qbtA)  
+> 【前端】[我是一个爬虫](https://mp.weixin.qq.com/s/NnZzEo5oCpWfB3v8BlmOSQ)  
 > 【前端】[不可思议的混合模式 background-blend-mode](https://github.com/chokcoco/iCSS/issues/31)  
 > 【前端】[开发者生态五大重要标准](https://mp.weixin.qq.com/s/tae5z5CXNBUJoS_F2ghBQg)  
 > 【产品】[后开源时代，开源的未来往哪边？](https://mp.weixin.qq.com/s/0C2mxVDPFyf7v8lg1njaLA)  
