@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[为什么分布式一定要有redis?](https://mp.weixin.qq.com/s/gEU8HtsQNPXY8bzkK-Qllg)  
+> 【前端】[爬虫攻防之前端策略简析](https://juejin.im/entry/5b2267bd518825748f4da269)  
 > 【搞笑】[我们都是吝啬的傻 X](https://mp.weixin.qq.com/s/D8w0qOB691jKM2DTNzQ6_g)  
 > 【产品】[关于产品的签到思考](https://mp.weixin.qq.com/s/fnYsb_umAxchJqxexy7qVA)  
 > 【产品】[为什么说中国to B时代终于来了？](https://mp.weixin.qq.com/s/cgQOh62fb_vuzywTwCcjow)  
