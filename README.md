@@ -1,6 +1,12 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[模块化与闭包](https://juejin.im/post/5b21fcd1e51d4558882126ef)  
+> 【前端】[webpack 中的 Local Scope](https://juejin.im/post/5b234e25e51d45588016caa0)  
+> 【前端】[JS 实现监控微信小程序](https://juejin.im/post/5b222c6e51882574cd52fc68)  
+> 【前端】[跨平台 canvas 绘图框架 spritejs](https://mp.weixin.qq.com/s/cth8CKGfjLGOhgpxxw0gqg)  
+> 【其他】[清退“小白兔”员工，绝不手软！](https://mp.weixin.qq.com/s/c0UGVEvbDCtQiCX9dLeoqA)  
+> 【前端】[JavaScript 的 this 原理](https://mp.weixin.qq.com/s/cNWXVisYTxNMM7-FdwtzyQ)  
 > 【前端】[为什么分布式一定要有redis?](https://mp.weixin.qq.com/s/gEU8HtsQNPXY8bzkK-Qllg)  
 > 【前端】[爬虫攻防之前端策略简析](https://juejin.im/entry/5b2267bd518825748f4da269)  
 > 【搞笑】[我们都是吝啬的傻 X](https://mp.weixin.qq.com/s/D8w0qOB691jKM2DTNzQ6_g)  
