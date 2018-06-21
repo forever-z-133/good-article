@@ -1,6 +1,7 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[谷歌AMP和百度MIP，你选哪个？](https://mp.weixin.qq.com/s/vgSEZAcK4WLBY_vq9tmAKg)  
 > 【前端】[模块化与闭包](https://juejin.im/post/5b21fcd1e51d4558882126ef)  
 > 【前端】[webpack 中的 Local Scope](https://juejin.im/post/5b234e25e51d45588016caa0)  
 > 【前端】[JS 实现监控微信小程序](https://juejin.im/post/5b222c6e51882574cd52fc68)  
