@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[SVG滤镜对图片调色](https://juejin.im/entry/5b2b37bb51882574ec309fce)  
+> 【前端】[修复每个 bug 后都要问这 3 个问题](https://mp.weixin.qq.com/s/ixqw2dGnGiqtigZmDYB7xA)  
 > 【前端】[谷歌AMP和百度MIP，你选哪个？](https://mp.weixin.qq.com/s/vgSEZAcK4WLBY_vq9tmAKg)  
 > 【前端】[模块化与闭包](https://juejin.im/post/5b21fcd1e51d4558882126ef)  
 > 【前端】[webpack 中的 Local Scope](https://juejin.im/post/5b234e25e51d45588016caa0)  
