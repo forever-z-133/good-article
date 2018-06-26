@@ -1,6 +1,11 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[Taro 诞生记](https://mp.weixin.qq.com/s/RwpkhgKJ9iFOfqLCJ6FHfA)  
+> 【其他】[微信的操作系统之路](https://mp.weixin.qq.com/s/4nt8vi5yvPs5oEKlD8dlKg)  
+> 【人生】[从价格认知谈起](https://mp.weixin.qq.com/s/WDAXQcMg4MOcRP-zke1EbQ)  
+> 【前端】[一个Vue页面的内存泄露分析](https://mp.weixin.qq.com/s/9yTZ8Grt5wGXix7WFWrnhw)  
+> 【前端】[为什么不会有CSS4了？](https://mp.weixin.qq.com/s/rQEN6rz2mLtN-Br6wNN-WQ)  
 > 【前端】[前端开发的领域驱动设计](https://mp.weixin.qq.com/s/gXPwVBq7VPguk94nEFUSkg)  
 > 【前端】[Web 动画帧率（FPS）计算](https://mp.weixin.qq.com/s/RbWeh0qfNHnXlotHLQOq8g)  
 > 【产品】[仪式感体验设计](https://mp.weixin.qq.com/s/lkYrwCEUaaRCZhibnTyWig)  
