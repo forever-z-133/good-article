@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[JavaScript 引擎基础：Shapes 和 Inline Caches](https://mp.weixin.qq.com/s/AWzJKF1bnPe1WFI3ti5cPA)  
+> 【其他】[不打广告，商品的价格就真的能降下来么？](https://mp.weixin.qq.com/s/lGXzC-gVxGE9ES84_q-jyg)  
 > 【人生】[卷福新片《梅尔罗斯》](https://mp.weixin.qq.com/s/hZOxWmCUrDpkfDgqMkkblA)  
 > 【其他】[扭曲的手机计步](https://mp.weixin.qq.com/s/VO4-ZACQiI3hcpkQJNLOxA)  
 > 【前端】[DOM系列：动态添加CSS样式规则](https://mp.weixin.qq.com/s/RTU5Vp8DjRPfLqVYUJ4zeg)  
