@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 6 月 
+> 【前端】[W3C 发布 2018 年发展路线图](https://mp.weixin.qq.com/s/o0EnLmcCX1FvjIe3NbutJA)  
+> 【前端】[大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)  
 > 【前端】[JavaScript 引擎基础：Shapes 和 Inline Caches](https://mp.weixin.qq.com/s/AWzJKF1bnPe1WFI3ti5cPA)  
 > 【其他】[不打广告，商品的价格就真的能降下来么？](https://mp.weixin.qq.com/s/lGXzC-gVxGE9ES84_q-jyg)  
 > 【人生】[卷福新片《梅尔罗斯》](https://mp.weixin.qq.com/s/hZOxWmCUrDpkfDgqMkkblA)  
