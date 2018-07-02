@@ -1,5 +1,12 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 7 月 
+> 【前端】[用 Promise 讲一个悲伤的故事给你听](https://mp.weixin.qq.com/s/-MH2Lj7Bb8KezP2ozlcZ2A)  
+> 【前端】[React中JSX的本质不是模板引擎，而是语法糖](https://mp.weixin.qq.com/s/sag3eIXtczIqzikmA_dwcg) 
+> 【前端】[ES6 的解构赋值会加重 GC 的负担吗？](https://mp.weixin.qq.com/s/cZsyuo9nq4AdXQtmckuFMQ)  
+> 【人生】[到底什么叫一个“成熟”的人？](https://mp.weixin.qq.com/s/kFZ9-DnmAMYRuzwkz_DB7g)  
+> 【人生】[人到中年的爱情](https://mp.weixin.qq.com/s/HsRYO_cbf95AohRlO4OJAA)  
+
 ### 2018 年 6 月 
 > 【前端】[W3C 发布 2018 年发展路线图](https://mp.weixin.qq.com/s/o0EnLmcCX1FvjIe3NbutJA)  
 > 【前端】[大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)  
