@@ -1,6 +1,17 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【前端】[JavaScript中的强制类型转换](https://juejin.im/post/5b3b76de5188251afc25567f)  
+> 【前端】[把前端监控做到极致](https://juejin.im/entry/5b3ed06d6fb9a04fe727e671)  
+> 【前端】[浅谈前端响应式设计（一）](https://mp.weixin.qq.com/s/AW5CQzODkjHQfXlqDoXhRQ)  
+> 【前端】[以开发的视角做设计](https://mp.weixin.qq.com/s/TFm7SALJDnyXDt_QMxx0wQ)  
+> 【前端】[「CSS思维」组件化VS原子化](https://github.com/ziven27/blog/issues/23)  
+> 【前端】[前端布局推进剂 - 间距规范化](https://mp.weixin.qq.com/s/OrKw9guYNiu2cMinVAcU2w)  
+> 【前端】[流行的 CSS 解决方案：CSS 原子化](https://juejin.im/post/5b3c594fe51d45191252d6a2)  
+> 【前端】[流行的 CSS 解决方案：CSS-in-JS](https://juejin.im/post/5b39e63ae51d4562aa017c81)  
+> 【前端】[使用 JSON Web Token 设计单点登录系统](https://mp.weixin.qq.com/s/7Ze6P77X4iFCUEz9LQHxrQ)  
+> 【设计】[iOS设备的常见差异化设计](https://mp.weixin.qq.com/s/lI0CNoS5pab8RjNkiz_6DQ)  
+> 【前端】[零 bug 策略：要么立马修复，要么忽略](https://mp.weixin.qq.com/s/1hp8JixCtqoa_QJZhYg4FA)  
 > 【前端】[什么是中间件？](https://juejin.im/post/5b3a0c066fb9a00e9b3a195d)  
 > 【前端】[全面了解Token,JWT,OAuth,SAML,SSO](https://juejin.im/post/5b3b870a5188251ac85826b8)  
 > 【前端】[用 Promise 讲一个悲伤的故事给你听](https://mp.weixin.qq.com/s/-MH2Lj7Bb8KezP2ozlcZ2A)  
