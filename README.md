@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【产品】[2018年过半，说好的小程序风口呢](https://mp.weixin.qq.com/s/t-daOn_a1W_S852Wi0fqzg)  
+> 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
+> 【前端】[CSS 直接写嵌套的日子就要到了](https://mp.weixin.qq.com/s/9c574mijKnYoJLnqKdG3Yg)  
+> 【前端】[让在Vue中使用的EventBus也有生命周期](https://juejin.im/entry/5b46ca28e51d4519962e9b65)  
 > 【前端】[JavaScript中的强制类型转换](https://juejin.im/post/5b3b76de5188251afc25567f)  
 > 【前端】[把前端监控做到极致](https://juejin.im/entry/5b3ed06d6fb9a04fe727e671)  
 > 【前端】[浅谈前端响应式设计（一）](https://mp.weixin.qq.com/s/AW5CQzODkjHQfXlqDoXhRQ)  
