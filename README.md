@@ -1,6 +1,17 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【其他】[盘点一下免费好用的图床](https://www.jianshu.com/p/718173c339ee)  
+> 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
+> 【设计】[关于极简主义设计](https://mp.weixin.qq.com/s/aNMoIma079erLf8iTz7n9w)  
+> 【产品】[微信“不友好”设计其背后的逻辑](https://mp.weixin.qq.com/s/ZFm1-Ol1tMPBnsH-jua8RQ)  
+> 【设计】[重复与突变在产品设计中的应用](https://mp.weixin.qq.com/s/eqd0lEU3uMxw4wAXCDWbnw)  
+> 【产品】[百果园破局果业营销](https://mp.weixin.qq.com/s/cvdOn6yeu9P7C2LhZCia0w)  
+> 【设计】[13个主要的设计趋势](https://mp.weixin.qq.com/s/ly8r82fP4RW1rKK_Lmcxcg)  
+> 【前端】[关于 Vue.js：那些好的，不怎么样的和糟糕的](https://mp.weixin.qq.com/s/o9-BkILkjXjvDxvHpiYMDA)  
+> 【前端】[Skeleton Screen/加载占位图](https://mp.weixin.qq.com/s/qmyn6mGrO6hRKuvKUSF8lA)  
+> 【前端】[用 MutationObserver 追踪 DOM 的变化](https://mp.weixin.qq.com/s/qeWkKsxH8eyqKlCZDeGUwA)  
+> 【前端】[无尽滚动的复杂度](https://mp.weixin.qq.com/s/XsZPmx0GJzUWxz9M978ugw)  
 > 【产品】[2018年过半，说好的小程序风口呢](https://mp.weixin.qq.com/s/t-daOn_a1W_S852Wi0fqzg)  
 > 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
 > 【前端】[CSS 直接写嵌套的日子就要到了](https://mp.weixin.qq.com/s/9c574mijKnYoJLnqKdG3Yg)  
