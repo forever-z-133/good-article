@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
+> 【其他】[谷歌成长史：荒诞梦想的副产品](https://mp.weixin.qq.com/s/Ip-Y61WkRvahIudLQMZVBw)  
+> 【产品】[为什么浮层或弹框一定要有叉叉关闭按钮？](https://www.zhangxinxu.com/wordpress/2018/07/why-dialog-panel-need-close-button/)  
 > 【其他】[盘点一下免费好用的图床](https://www.jianshu.com/p/718173c339ee)  
 > 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
 > 【设计】[关于极简主义设计](https://mp.weixin.qq.com/s/aNMoIma079erLf8iTz7n9w)  
