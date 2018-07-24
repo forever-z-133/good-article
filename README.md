@@ -1,6 +1,11 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【设计】[B类产品常用Web导航应用总结](https://mp.weixin.qq.com/s/LP_-2TuG4YUOcFS0iOMeaA)  
+> 【前端】[最浅显易懂的RxJS教程](https://mp.weixin.qq.com/s/6RRK4Gb__cvCwg6CjykFrQ)  
+> 【前端】[React组件模式](https://mp.weixin.qq.com/s/WRAv9Tjw__3KUWt4glg9ng)  
+> 【设计】[长滚动页面的最佳实践](https://mp.weixin.qq.com/s/nE1qLYvumvxSMlGyBBncEg)  
+> 【其他】[印度史 之 种姓&轮回](https://mp.weixin.qq.com/s/dAEZhjJhZxCnw-KD2j0fmA)  
 > 【前端】[组件开发的单元素模式](https://mp.weixin.qq.com/s/0ehjOhqkD3VHevVGU5-XOg)  
 > 【其他】[谷歌成长史：荒诞梦想的副产品](https://mp.weixin.qq.com/s/Ip-Y61WkRvahIudLQMZVBw)  
 > 【产品】[为什么浮层或弹框一定要有叉叉关闭按钮？](https://www.zhangxinxu.com/wordpress/2018/07/why-dialog-panel-need-close-button/)  
