@@ -1,6 +1,11 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 7 月 
+> 【其他】[史上物理学最强的科普](https://mp.weixin.qq.com/s/AqdX4X4_34H3yVmXJX_4sQ)  
+> 【前端】[CSS中重要的BFC](https://mp.weixin.qq.com/s/msPO-fLlg6YqBUgE6xuYQw)  
+> 【人生】[丧一年，佛一年](https://mp.weixin.qq.com/s/JO7co276auK323D_ie1yiQ)  
+> 【其他】[爬虫简史](https://mp.weixin.qq.com/s/1y9pUxUBZSPk-4MEFsL_kg)  
+> 【其他】[多学科电子书清单](https://github.com/programthink/books)  
 > 【设计】[B类产品常用Web导航应用总结](https://mp.weixin.qq.com/s/LP_-2TuG4YUOcFS0iOMeaA)  
 > 【前端】[最浅显易懂的RxJS教程](https://mp.weixin.qq.com/s/6RRK4Gb__cvCwg6CjykFrQ)  
 > 【前端】[React组件模式](https://mp.weixin.qq.com/s/WRAv9Tjw__3KUWt4glg9ng)  
