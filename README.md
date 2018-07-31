@@ -1,5 +1,13 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 8 月 
+> 【前端】[如何在 JS 代码中消灭 for 循环](https://juejin.im/post/5b5a9451f265da0f6a036346)  
+> 【前端】[打造最好的面试图谱](https://yuchengkai.cn/docs/zh/)  
+> 【前端】[大前端的技术原理和变迁史](https://juejin.im/post/5b5adc9b6fb9a04f9244555d)  
+> 【前端】[深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)  
+> 【前端】[深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)  
+> 【前端】[换个思路学习 nodejs](https://github.com/wangfupeng1988/node-tutorial)  
+
 ### 2018 年 7 月 
 > 【前端】[5分钟彻底理解 Object.keys](https://mp.weixin.qq.com/s/lEG4Ngm2T3qaqgM_j1niMQ)  
 > 【前端】[关键渲染路径中的 CSS 解析和渲染](https://mp.weixin.qq.com/s/dZUlG68R-KPGAbEdswyooA)  
