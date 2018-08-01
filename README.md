@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[小程序的执行流程是怎么样的？](https://mp.weixin.qq.com/s/wPSXUK7FV23hNRUwon-tGA)  
+> 【前端】[一篇文章理解 JS 继承](https://mp.weixin.qq.com/s/91nRBa_mDUu-w77FptvmoQ)  
+> 【其他】[互联网早期是怎么发展起来的](https://mp.weixin.qq.com/s/foXyYGweRfOdm7URaXzbMw)  
+> 【前端】[JS之父演讲：JavaScript的下一站](https://mp.weixin.qq.com/s/dnNxaJTsBZtHkgIlM4RsVA)  
+> 【前端】[程序员必备的项目时间估算指南](https://mp.weixin.qq.com/s/58xUjrp3Kp5WfIDDgX8aug)  
+> 【其他】[百度没有文化](https://mp.weixin.qq.com/s/NhQiEh0VauHlA26KdjagsQ)  
+> 【其他】[新零售是阿里给行业挖的大坑？](https://mp.weixin.qq.com/s/UexITrhps_VT4ucj0L3Kyw)  
 > 【前端】[如何在 JS 代码中消灭 for 循环](https://juejin.im/post/5b5a9451f265da0f6a036346)  
 > 【前端】[打造最好的面试图谱](https://yuchengkai.cn/docs/zh/)  
 > 【前端】[大前端的技术原理和变迁史](https://juejin.im/post/5b5adc9b6fb9a04f9244555d)  
