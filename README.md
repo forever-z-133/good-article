@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【产品】[为什么总有人认为不需要战略？](https://mp.weixin.qq.com/s/lsr7cdJKVrZYS4DTaAwlAw)  
+> 【前端】[Flexbox 渲染规则](https://mp.weixin.qq.com/s/WtGzVMzh1RupixD_4474mg)  
 > 【前端】[小程序的执行流程是怎么样的？](https://mp.weixin.qq.com/s/wPSXUK7FV23hNRUwon-tGA)  
 > 【前端】[一篇文章理解 JS 继承](https://mp.weixin.qq.com/s/91nRBa_mDUu-w77FptvmoQ)  
 > 【其他】[互联网早期是怎么发展起来的](https://mp.weixin.qq.com/s/foXyYGweRfOdm7URaXzbMw)  
