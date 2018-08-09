@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【产品】[角色权限设计的100种解法](https://mp.weixin.qq.com/s/MKljuxfDMmopr_MrnYljGw)  
+> 【前端】[为什么 JSON 不适合作为配置语言？](https://mp.weixin.qq.com/s/VGeet07OCNVwM5v7X9CKfQ)  
+> 【设计】[如何利用字体轮廓化做出高逼格海报](https://mp.weixin.qq.com/s/-eheuS9Qrq8hhATlAaQdJA)  
+> 【其他】[货币如水，覆水难收](https://mp.weixin.qq.com/s/ThK1qhWu4Gfw3e_wetH55Q)  
+> 【其他】[实体商业将全面爆发！](https://mp.weixin.qq.com/s/ybuET4pG4w1B_VYa4ThBGA)  
+> 【前端】[JavaScript 实现简单二叉查找树](https://mp.weixin.qq.com/s/MqCClFN97uaOZNNfRYDhwQ)  
+> 【其他】[盘点一些小众的在线工具](https://mp.weixin.qq.com/s/PpBnhGYXA-nO7fmcoVkf9Q)  
 > 【产品】[为什么总有人认为不需要战略？](https://mp.weixin.qq.com/s/lsr7cdJKVrZYS4DTaAwlAw)  
 > 【前端】[Flexbox 渲染规则](https://mp.weixin.qq.com/s/WtGzVMzh1RupixD_4474mg)  
 > 【前端】[小程序的执行流程是怎么样的？](https://mp.weixin.qq.com/s/wPSXUK7FV23hNRUwon-tGA)  
