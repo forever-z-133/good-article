@@ -1,6 +1,12 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[揭秘js框架中的常用套路](https://juejin.im/post/5b6dae635188251ace75f422)  
+> 【设计】[如何设计输入框？](https://mp.weixin.qq.com/s/TyJrhra9Z98H7F-v-lynXg)  
+> 【前端】[小程序构建骨架屏的探索](https://mp.weixin.qq.com/s/QGLr4s6PvJ0kDc59YzKSRg)  
+> 【其他】[拼团简史：后流量时代，生态决定壁垒](https://mp.weixin.qq.com/s/TQWnakOE12WrX9CNpi6_dQ)  
+> 【前端】[初学者应该了解的数据结构：Tree](https://mp.weixin.qq.com/s/dKYlKuD2wrMAK-bRBHHASg)  
+> 【前端】[如何直观的在JavaScript中管理状态](https://mp.weixin.qq.com/s/cFeo_zEtva893Q9O-i2K4w)  
 > 【产品】[角色权限设计的100种解法](https://mp.weixin.qq.com/s/MKljuxfDMmopr_MrnYljGw)  
 > 【前端】[为什么 JSON 不适合作为配置语言？](https://mp.weixin.qq.com/s/VGeet07OCNVwM5v7X9CKfQ)  
 > 【设计】[如何利用字体轮廓化做出高逼格海报](https://mp.weixin.qq.com/s/-eheuS9Qrq8hhATlAaQdJA)  
