@@ -1,6 +1,7 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【设计】[22个著名的品牌 LOGO 动画](https://mp.weixin.qq.com/s/mj4x9S-iFGxEYSJBRJE3PQ)  
 > 【前端】[揭秘js框架中的常用套路](https://juejin.im/post/5b6dae635188251ace75f422)  
 > 【设计】[如何设计输入框？](https://mp.weixin.qq.com/s/TyJrhra9Z98H7F-v-lynXg)  
 > 【前端】[小程序构建骨架屏的探索](https://mp.weixin.qq.com/s/QGLr4s6PvJ0kDc59YzKSRg)  
