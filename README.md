@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[Service Worker一问一答](https://juejin.im/post/5b72c7a9f265da280928d433)  
+> 【前端】[一段柯里化函数代码阅读](https://juejin.im/post/5afa6fbf6fb9a07ace5903c2)  
+> 【前端】[IOS下box-shadow的诡异bug的修复](https://juejin.im/post/5b739d97f265da28065fb1bc)  
+> 【前端】[正交连线的算法的一种简单实现](https://juejin.im/post/5b73829ee51d4566205fe7f0)  
+> 【前端】[ES7 Decorator 装饰者模式](https://juejin.im/entry/5b74e0525188256143054663)  
+> 【前端】[移动端调试痛点？——送你五款前端开发利器](https://juejin.im/post/5b72e1f66fb9a009d018fb94)  
+> 【前端】[Rollup初探](https://juejin.im/post/5b0572da6fb9a07ac85aca46)  
 > 【设计】[22个著名的品牌 LOGO 动画](https://mp.weixin.qq.com/s/mj4x9S-iFGxEYSJBRJE3PQ)  
 > 【前端】[揭秘js框架中的常用套路](https://juejin.im/post/5b6dae635188251ace75f422)  
 > 【设计】[如何设计输入框？](https://mp.weixin.qq.com/s/TyJrhra9Z98H7F-v-lynXg)  
