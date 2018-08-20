@@ -1,6 +1,14 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【其他】[喷子简史](https://mp.weixin.qq.com/s/Ra_HgVO8tDTGXqPIa3HcSA)  
+> 【前端】[揭秘区块链的核心技术之「哈希与加密算法 」](https://mp.weixin.qq.com/s/8r6AF8ANK1kiEMap0lkWVw)  
+> 【产品】[如何设计“微信公众号”的信息流？](https://mp.weixin.qq.com/s/EfVPgrpDQZQ0TsIYqDBU6A)  
+> 【前端】[区块链项目先要解决这3个问题](https://mp.weixin.qq.com/s/zpgNpjijbRmp4DzYgZX9QA)  
+> 【前端】[以Vue为例，解释JavaScript的反应性](https://mp.weixin.qq.com/s/Wm5-3hsqre7ft_f0YBnoeg)  
+> 【前端】[GZIP 的压缩原理与日常应用](https://mp.weixin.qq.com/s/j80GT6S8pWX_MKcBfo-rlw)  
+> 【前端】[三角函数在前端动画中的应用](https://juejin.im/entry/5b79a1d6f265da4343459b7f)  
+> 【前端】[Chrome 插件详细教程](https://github.com/sxei/chrome-plugin-demo)  
 > 【前端】[Service Worker一问一答](https://juejin.im/post/5b72c7a9f265da280928d433)  
 > 【前端】[一段柯里化函数代码阅读](https://juejin.im/post/5afa6fbf6fb9a07ace5903c2)  
 > 【前端】[IOS下box-shadow的诡异bug的修复](https://juejin.im/post/5b739d97f265da28065fb1bc)  
