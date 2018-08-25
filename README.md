@@ -1,6 +1,19 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[vuex 工作原理详解](https://juejin.im/entry/5b7a21bf51882542eb2dd685)  
+> 【前端】[浅谈H5音频处理](https://juejin.im/post/5b7939a46fb9a01a15728272)  
+> 【前端】[代码快不快？跑个分就知道](https://juejin.im/post/5b7a51886fb9a019ea01f593)  
+> 【前端】[深度剖析定时器](https://juejin.im/post/5b7a077a6fb9a019c476e51c)  
+> 【前端】[如何实现复杂的动画](https://juejin.im/post/5b7949b9e51d4538bb474e53)  
+> 【其他】[上海不相信互联网](https://mp.weixin.qq.com/s/ekD6daXqnxF4WLcxn7F9Bg)  
+> 【前端】[前端er怎样操作剪切复制](https://mp.weixin.qq.com/s/kyYUyBm6lKXda9kHwxIrLQ)  
+> 【其他】[为什么中介哄抢租赁房源](https://mp.weixin.qq.com/s/GapQX15P-4Jg92-8TyVaUA)  
+> 【其他】[粉丝需要欢乐场，人民需要杨超越](https://mp.weixin.qq.com/s/ZnwBt8C8um7-olN-fbnXsA)  
+> 【前端】[如何机智的弄坏一台电脑](https://mp.weixin.qq.com/s/opT_rsPsx7pNvlwQfhtRhQ)  
+> 【人生】[写作课：虎皮青椒](https://mp.weixin.qq.com/s/AYiUAaXL92ArMqYZNEOlwg)  
+> 【前端】[高级算法集锦](https://mp.weixin.qq.com/s/UlqdWTOrV401jg7lT2fEGw)  
+> 【前端】[什么是时间复杂度？](https://mp.weixin.qq.com/s/1rYK3urLuun5WqnibJ2t3g)  
 > 【其他】[喷子简史](https://mp.weixin.qq.com/s/Ra_HgVO8tDTGXqPIa3HcSA)  
 > 【前端】[揭秘区块链的核心技术之「哈希与加密算法 」](https://mp.weixin.qq.com/s/8r6AF8ANK1kiEMap0lkWVw)  
 > 【产品】[如何设计“微信公众号”的信息流？](https://mp.weixin.qq.com/s/EfVPgrpDQZQ0TsIYqDBU6A)  
