@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[现代JS中的流控制](https://juejin.im/entry/5b8283b951882542d14d9964)  
+> 【其他】[减税还有戏吗？](https://mp.weixin.qq.com/s/IQQ5Y4T6oiJnxgWUHypYBg)  
+> 【前端】[W3C规范标准化流程](https://mp.weixin.qq.com/s/ibZ8m8hLkt1AtHE6_ivUag)  
+> 【前端】[这些 VS Code 插件你都用过吗？](https://mp.weixin.qq.com/s/SW9iBExjhgn37QKtmXaleQ)  
 > 【前端】[vuex 工作原理详解](https://juejin.im/entry/5b7a21bf51882542eb2dd685)  
 > 【前端】[浅谈H5音频处理](https://juejin.im/post/5b7939a46fb9a01a15728272)  
 > 【前端】[代码快不快？跑个分就知道](https://juejin.im/post/5b7a51886fb9a019ea01f593)  
