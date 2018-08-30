@@ -1,6 +1,12 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[去哪儿网React转微信小程序实践](https://mp.weixin.qq.com/s/8Vfayg_F0V9x85m5l-lg_g)  
+> 【前端】[谈谈“拖库”这点事](https://mp.weixin.qq.com/s/HmHJIxNZE5SoGZaCN54PtA)  
+> 【前端】[使用 JavaScript 的代价](https://mp.weixin.qq.com/s/0RMTdFa82kTjXdJ_x6vYWg)  
+> 【人生】[当都市人都患上厌食症](https://mp.weixin.qq.com/s/jMTjd-YH0SawQ2HzB7vi1A)  
+> 【前端】[一口(很长的)气了解 Babel](https://mp.weixin.qq.com/s/qetiJo47IyssYWAr455xHQ)  
+> 【前端】[gif的故事：解剖表情动图的构成](http://www.alloyteam.com/2017/09/13121/)  
 > 【前端】[现代JS中的流控制](https://juejin.im/entry/5b8283b951882542d14d9964)  
 > 【其他】[减税还有戏吗？](https://mp.weixin.qq.com/s/IQQ5Y4T6oiJnxgWUHypYBg)  
 > 【前端】[W3C规范标准化流程](https://mp.weixin.qq.com/s/ibZ8m8hLkt1AtHE6_ivUag)  
