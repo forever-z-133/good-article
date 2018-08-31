@@ -1,6 +1,8 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 8 月 
+> 【前端】[让你更透彻知道浏览器是如何工作](https://mp.weixin.qq.com/s/87OYpou4ynpvYlcExEO40w)  
+> 【前端】[vue-cli 自动化测试 Nightwatch 详解](https://juejin.im/post/5b867f196fb9a019d74766ec)  
 > 【前端】[去哪儿网React转微信小程序实践](https://mp.weixin.qq.com/s/8Vfayg_F0V9x85m5l-lg_g)  
 > 【前端】[谈谈“拖库”这点事](https://mp.weixin.qq.com/s/HmHJIxNZE5SoGZaCN54PtA)  
 > 【前端】[使用 JavaScript 的代价](https://mp.weixin.qq.com/s/0RMTdFa82kTjXdJ_x6vYWg)  
