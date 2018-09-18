@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 9 月 
+> 【前端】[如何快速解决繁杂的国际化替换](https://juejin.im/post/5b9f7976e51d450e9e43fd71)  
+> 【前端】[Web框架的架构模式探讨](https://juejin.im/entry/5b9f73605188255c80665607)  
+> 【前端】[函数式编程之柯里化与偏应用](https://juejin.im/post/5b9f62f66fb9a05ce273f6cd)  
+> 【前端】[函数式编程之组合与管道](https://juejin.im/post/5ba0c01ee51d450e950fdf7c)  
 > 【前端】[聊聊我对现代前端框架的认知](https://mp.weixin.qq.com/s/rzy5xdzvTpfArGsp8T-77g)  
 > 【前端】[AST抽象语法树](https://mp.weixin.qq.com/s/GOD7NL6gK1Fg8QNDw6IGtw)  
 > 【人生】[我才20多岁，为什么每天都觉得很累？](https://mp.weixin.qq.com/s/xwoXnkApTJLIgEm7yWMFlw)  
