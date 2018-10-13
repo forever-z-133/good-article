@@ -1,6 +1,21 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 9 月 
+> 【前端】[推荐3款移动端网页开发调试方式](https://mp.weixin.qq.com/s/CSeu1JeJE8CejTQIpxZTDQ)  
+> 【前端】[推荐3款移动端网页开发调试方式](https://mp.weixin.qq.com/s/CSeu1JeJE8CejTQIpxZTDQ)  
+> 【其他】[腾讯当下的技术建设是否落后于同体量的公司](https://mp.weixin.qq.com/s/K593gV-CO5XfKx5tswWZOQ)  
+> 【前端】[什么是 Generator 以及如何使用它们](https://mp.weixin.qq.com/s/RPXYvzWdVaWQaD4SZOhTJg)  
+> 【前端】[谈谈 AnimationWorklet](https://mp.weixin.qq.com/s/Tixer_ezqyk793gqqKKQDg)  
+> 【前端】[正则表达式真的很6](https://mp.weixin.qq.com/s/CBexZfG1DHYji_Pk6Zo38w)  
+> 【前端】[Virtual Dom 介绍](https://mp.weixin.qq.com/s/YSBPx-n7KHznfcIV7k9_ag)  
+> 【其他】[2万5千字大厂面经](https://juejin.im/post/5ba34e54e51d450e5162789b)  
+> 【前端】[手把手带你用85行代码实现一个 React.js](https://juejin.im/post/5ba906eae51d450e78261dbb)  
+> 【前端】[Javascript 模块化管理的来世今生](https://juejin.im/post/5ba9f5bff265da0af2136fd5)  
+> 【前端】[从内部了解现代浏览器(1)](https://juejin.im/post/5baca7616fb9a05d290eff2c)  
+> 【前端】[让 console 充满情怀](https://aotu.io/notes/2016/06/22/An-interesting-experience-on-console/)  
+> 【前端】[假如帝国的黄昏降临](http://zs.meijiexia.com/u_detail.php?id=5818)  
+> 【前端】[Meta CSS，一个Anti Pattern 的典型](http://hax.iteye.com/blog/497338)  
+> 【前端】[关于样式类（Style Class）](http://hax.iteye.com/blog/500015)  
 > 【前端】[如何快速解决繁杂的国际化替换](https://juejin.im/post/5b9f7976e51d450e9e43fd71)  
 > 【前端】[Web框架的架构模式探讨](https://juejin.im/entry/5b9f73605188255c80665607)  
 > 【前端】[函数式编程之柯里化与偏应用](https://juejin.im/post/5b9f62f66fb9a05ce273f6cd)  
