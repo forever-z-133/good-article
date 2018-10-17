@@ -1,7 +1,16 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 10 月 
+> 【人生】[别催了，90后真“结不了婚”](https://mp.weixin.qq.com/s/uogKN8kF7iydUO6eDfzuQA)  
+> 【前端】[我如何零基础转行成为一个自信的前端](https://mp.weixin.qq.com/s/gpH2Ja0PHMqiRvNE5hgsuA)  
+> 【其他】[关于芯片之争，终于有人说出了本质](https://mp.weixin.qq.com/s/smiUvHVmjOhmfZbf5r7irg)  
+> 【前端】[该如何以正确的姿势插入SVG Sprites？](https://honeybadger8.github.io/blog/#/frontends/css/svg-sprites)  
+> 【前端】[RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)  
+> 【前端】[Git 原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)  
+> 【前端】[精准操控的滚动体验，浅谈新标准 Scroll Snap](https://juejin.im/entry/5bc31c6c5188255c8f06c98e)  
+
+
 ### 2018 年 9 月 
-> 【前端】[推荐3款移动端网页开发调试方式](https://mp.weixin.qq.com/s/CSeu1JeJE8CejTQIpxZTDQ)  
 > 【前端】[推荐3款移动端网页开发调试方式](https://mp.weixin.qq.com/s/CSeu1JeJE8CejTQIpxZTDQ)  
 > 【其他】[腾讯当下的技术建设是否落后于同体量的公司](https://mp.weixin.qq.com/s/K593gV-CO5XfKx5tswWZOQ)  
 > 【前端】[什么是 Generator 以及如何使用它们](https://mp.weixin.qq.com/s/RPXYvzWdVaWQaD4SZOhTJg)  
