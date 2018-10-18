@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 10 月 
+> 【其他】[阿里云的这群疯子](https://mp.weixin.qq.com/s/2naSYInolmWtkNp_bBaLoA)  
+> 【前端】[你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)  
+> 【前端】[更高效、更安全地操作 CSSOM ：CSS Typed OM](https://juejin.im/post/5bc712245188255c352d8c5a)  
 > 【人生】[别催了，90后真“结不了婚”](https://mp.weixin.qq.com/s/uogKN8kF7iydUO6eDfzuQA)  
 > 【前端】[我如何零基础转行成为一个自信的前端](https://mp.weixin.qq.com/s/gpH2Ja0PHMqiRvNE5hgsuA)  
 > 【其他】[关于芯片之争，终于有人说出了本质](https://mp.weixin.qq.com/s/smiUvHVmjOhmfZbf5r7irg)  
