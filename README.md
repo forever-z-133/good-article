@@ -1,6 +1,14 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 10 月 
+> 【前端】[你的浏览器为什么卡](https://mp.weixin.qq.com/s/NUrqeJ6UjWe7CxTGofdtNw)  
+> 【设计】[如何利用网格系统科学地打造APP界面](https://mp.weixin.qq.com/s/7Sz0MiqLf8A8BOB8Q60Dkg)  
+> 【搞笑】[互联网公司时尚穿搭指南](https://mp.weixin.qq.com/s/4qhLZrooiodnklre7Z5t5w)  
+> 【其他】[抑郁症并不可怕](https://mp.weixin.qq.com/s/qPuoj1FGNcc6KEGRgOqECg)  
+> 【其他】[水军刷量到底是如何运行的？](https://mp.weixin.qq.com/s/7F-3-Nj_1X8xE9_aZcbwnw)  
+> 【前端】[单屏页面响应式适配玩法](https://mp.weixin.qq.com/s/4li0YOAKYjN25uQWwISvsQ)  
+> 【其他】[港珠澳大桥与深圳的发展](https://mp.weixin.qq.com/s/wKAQ4pG-1KneJD6gJtLRgg)  
+> 【人生】[怎么才能快速适应职场?](https://mp.weixin.qq.com/s/FNjnVD_Btqfvxx-FXevGEg)  
 > 【其他】[阿里云的这群疯子](https://mp.weixin.qq.com/s/2naSYInolmWtkNp_bBaLoA)  
 > 【前端】[你听说过原生 HTML 组件吗？](https://juejin.im/post/5bc7ead7f265da0afc2c2c6b)  
 > 【前端】[更高效、更安全地操作 CSSOM ：CSS Typed OM](https://juejin.im/post/5bc712245188255c352d8c5a)  
