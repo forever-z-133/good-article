@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 10 月 
+> 【其他】[精辟解析中美贸易](https://mp.weixin.qq.com/s/MzJ_OjvrRDTndh7LdV-xkg)  
+> 【前端】[时间格式化API：Intl.RelativeTimeFormat](https://mp.weixin.qq.com/s/JZceEHlt4CRMlQwKDt2BeA)  
+> 【其他】[IT行业高工资的时代已经结束了](https://mp.weixin.qq.com/s/ZJ7tDoP2lSM1LdrSviE6OQ)  
+> 【前端】[JavaScript开发者应懂的33个概念](https://github.com/stephentian/33-js-concepts/blob/master/README.md)  
 > 【前端】[你的浏览器为什么卡](https://mp.weixin.qq.com/s/NUrqeJ6UjWe7CxTGofdtNw)  
 > 【设计】[如何利用网格系统科学地打造APP界面](https://mp.weixin.qq.com/s/7Sz0MiqLf8A8BOB8Q60Dkg)  
 > 【搞笑】[互联网公司时尚穿搭指南](https://mp.weixin.qq.com/s/4qhLZrooiodnklre7Z5t5w)  
