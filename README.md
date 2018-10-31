@@ -1,6 +1,16 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 10 月 
+> 【其他】[如何摆脱死工资](https://mp.weixin.qq.com/s/ynXHgzRrFU9ZPn138UC7wQ)  
+> 【其他】[从经济的角度分析怀孕就会被辞退](https://mp.weixin.qq.com/s/voJ4gUIHmQzflPq8vmM6ZQ)  
+> 【前端】[vue.nextTick()浅析](https://mp.weixin.qq.com/s/tL7mk5yDqC0YcHXTtL9hNw)  
+> 【其他】[阿里巴巴的孤独进行时](https://mp.weixin.qq.com/s/QIBX3bPE-Rx1lVlsANPgXw)  
+> 【前端】[你为什么用或不用框架](https://mp.weixin.qq.com/s/iJTrg9_QzHhIfYpfFSGg2g)  
+> 【前端】[base64编解码的奇奇怪怪的方法](https://mp.weixin.qq.com/s/GeSimAI2NXSN6kQQrHNV7g)  
+> 【前端】[十分钟打造 3D 物理世界](https://mp.weixin.qq.com/s/5o3M3bUEQjzgC5x874jKpg)  
+> 【其他】[经济历史的主要节点](https://mp.weixin.qq.com/s/F_GRpEubdnVPKYN9dv5a0Q)  
+> 【其他】[Adobe新增逆天黑科技](https://mp.weixin.qq.com/s/DvljqKoVlhvQ5e6qDpWBRA)  
+> 【前端】[深入探究浏览器Event事件](http://www.cnblogs.com/hykun/p/EventUtil.html)  
 > 【其他】[精辟解析中美贸易](https://mp.weixin.qq.com/s/MzJ_OjvrRDTndh7LdV-xkg)  
 > 【前端】[时间格式化API：Intl.RelativeTimeFormat](https://mp.weixin.qq.com/s/JZceEHlt4CRMlQwKDt2BeA)  
 > 【其他】[IT行业高工资的时代已经结束了](https://mp.weixin.qq.com/s/ZJ7tDoP2lSM1LdrSviE6OQ)  
