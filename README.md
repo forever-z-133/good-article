@@ -1,5 +1,9 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 11 月 
+> 【前端】[前端部分兼容陷阱](https://github.com/doyoe/trip)  
+> 【其他】[写金句文案是有套路的](https://mp.weixin.qq.com/s/UawZJWDaqWMeWvtTL6KGmQ)  
+
 ### 2018 年 10 月 
 > 【其他】[如何摆脱死工资](https://mp.weixin.qq.com/s/ynXHgzRrFU9ZPn138UC7wQ)  
 > 【其他】[从经济的角度分析怀孕就会被辞退](https://mp.weixin.qq.com/s/voJ4gUIHmQzflPq8vmM6ZQ)  
