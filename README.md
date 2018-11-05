@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【前端】[渔人和 Rxjs 的故事](https://mp.weixin.qq.com/s/yNHTkcJ6vIxfFX4YpozWgA)  
+> 【前端】[通用 LTR/RTL 布局解决方案](https://mp.weixin.qq.com/s/T2Zdmhknyo14EPkANSaU8g)  
+> 【前端】[h5 与原生 app 交互的原理](https://mp.weixin.qq.com/s/xQrmEfC8bWtpxFe4gwKIAw)  
+> 【前端】[什么是LRU算法？](https://mp.weixin.qq.com/s/h_Ns5HY27NmL_odCYLgx_Q)  
+> 【前端】[深拷贝的终极探索](https://mp.weixin.qq.com/s/iDbDyWeSDgShqR_nQ1po_g)  
+> 【前端】[浏览器拦截打开新窗口情况总结](https://juejin.im/post/5bdee507e51d4567953e6cdd)  
+> 【前端】[<head> 标签一览](https://gethead.info/)  
 > 【前端】[前端部分兼容陷阱](https://github.com/doyoe/trip)  
 > 【其他】[写金句文案是有套路的](https://mp.weixin.qq.com/s/UawZJWDaqWMeWvtTL6KGmQ)  
 
