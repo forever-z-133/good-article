@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【前端】[Vue.js 父子组件通信的十种方式](https://mp.weixin.qq.com/s/TVJqcSt1VFaHHooV-6VyeA)  
+> 【前端】[Vue 修饰符一览](https://mp.weixin.qq.com/s/85ElVZcDhNj_XzlDDNRROg)  
+> 【前端】[前端日志上报的新姿势 Beacon](https://mp.weixin.qq.com/s/-moAfEZicrFmun4qfWLdOQ)  
+> 【前端】[“开发者体验”骗局](https://mp.weixin.qq.com/s/crqSzO1W8kP_TADPC2JrXQ)  
+> 【前端】[理解 Javascript 执行上下文和执行栈](https://mp.weixin.qq.com/s/o3sEQWdyn1LpZZcwDRsZ7Q)  
+> 【人生】[最近看不到你的朋友圈了](https://mp.weixin.qq.com/s/kJjrn7QXP1ad9lMqf_LFxw)  
+> 【其他】[如何靠写作和投稿赚钱](https://www.jianshu.com/p/f1c447b3369d)  
 > 【前端】[渔人和 Rxjs 的故事](https://mp.weixin.qq.com/s/yNHTkcJ6vIxfFX4YpozWgA)  
 > 【前端】[通用 LTR/RTL 布局解决方案](https://mp.weixin.qq.com/s/T2Zdmhknyo14EPkANSaU8g)  
 > 【前端】[h5 与原生 app 交互的原理](https://mp.weixin.qq.com/s/xQrmEfC8bWtpxFe4gwKIAw)  
