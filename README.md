@@ -1,6 +1,11 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【设计】[网易考拉升级的设计考量](https://mp.weixin.qq.com/s/RY4FJ1ulrl_sxj1SYnSefw)  
+> 【设计】[8种金刚区设计样式](https://mp.weixin.qq.com/s/PtlS1OxhN2ltGwUA69DzIQ)  
+> 【其他】[为什么现在的广告都不讲故事了](https://mp.weixin.qq.com/s/p1w2MW3FpSFfC4sd8vaf9Q)  
+> 【其他】[诗词大全一览](http://s.ch-un.com/)  
+> 【前端】[你所不知道的 CSS 阴影技巧与细节](https://juejin.im/post/5be1023951882516fd36a38e)  
 > 【前端】[Vue.js 父子组件通信的十种方式](https://mp.weixin.qq.com/s/TVJqcSt1VFaHHooV-6VyeA)  
 > 【前端】[Vue 修饰符一览](https://mp.weixin.qq.com/s/85ElVZcDhNj_XzlDDNRROg)  
 > 【前端】[前端日志上报的新姿势 Beacon](https://mp.weixin.qq.com/s/-moAfEZicrFmun4qfWLdOQ)  
