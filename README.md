@@ -1,6 +1,16 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【前端】[JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/k-c2A-0mrLPW-ebZ-0P3Ng)  
+> 【其他】[线上版 PS -- PhotoPea](https://mp.weixin.qq.com/s/qWH7MmVRtMzIFPoAWebxJw)  
+> 【其他】[当历史被科技撞了一下腰](https://mp.weixin.qq.com/s/hbjj42sgmKipXkLlHOxHRA)  
+> 【其他】[这些网站帮设计师摆脱版权困扰](https://mp.weixin.qq.com/s/8YnAR0XwCUt9ii6KmPQaQg)  
+> 【其他】[好老板，从来都不是好人](https://mp.weixin.qq.com/s/HuoJd4Vai7liIQx4g3WQkw)  
+> 【前端】[多钟方法实现一个“回到顶部”](https://mp.weixin.qq.com/s/2u1TIeyX_qw0kmL2V8jILw)  
+> 【搞笑】[一组漫画完美总结互联网人生](https://mp.weixin.qq.com/s/JU12GQNBKBWttBG9Y8lM2w)  
+> 【前端】[Page Lifecycle API 教程](https://mp.weixin.qq.com/s/P0GnRlaDtJJDhANOLV9bwg)  
+> 【设计】[彩色半调的应用](https://mp.weixin.qq.com/s/vGhbNNVUtGVXYLf_HOHo8w)  
+> 【设计】[ICONS8 体验改造](https://mp.weixin.qq.com/s/Oroq7CetyT1LbVTHiTAERQ)  
 > 【设计】[网易考拉升级的设计考量](https://mp.weixin.qq.com/s/RY4FJ1ulrl_sxj1SYnSefw)  
 > 【设计】[8种金刚区设计样式](https://mp.weixin.qq.com/s/PtlS1OxhN2ltGwUA69DzIQ)  
 > 【其他】[为什么现在的广告都不讲故事了](https://mp.weixin.qq.com/s/p1w2MW3FpSFfC4sd8vaf9Q)  
