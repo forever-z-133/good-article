@@ -1,6 +1,13 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【前端】[行内元素空白“消消乐”](https://mp.weixin.qq.com/s/rxkxLxHR4oKR-U-TzXXdpA)  
+> 【前端】[scoped 样式与 CSS Module 对比](https://mp.weixin.qq.com/s/fxqWZnkBEv_T0ULzEZa4yQ)  
+> 【前端】[30分钟精通 React Hooks](https://mp.weixin.qq.com/s/KRFYclPnkkdXbkJCSTohCw)  
+> 【前端】[如何写出一手好的小程序之多端架构篇](https://mp.weixin.qq.com/s/K5HT_Balcsq7B0IT5jtDBw)  
+> 【前端】[React 中同构（SSR）原理脉络梳理](https://mp.weixin.qq.com/s/BXC6tZyY6fsi8l8dJ40nug)  
+> 【前端】[你知道一条 SQL 语句是咋执行的吗](https://mp.weixin.qq.com/s/R7Egj5be-uMCkgK82io-Dw)  
+> 【前端】[前端兼容性的根本原因及案例一览](http://www.w3help.org/zh-cn/causes/)  
 > 【前端】[JavaScript 复杂判断的更优雅写法](https://mp.weixin.qq.com/s/k-c2A-0mrLPW-ebZ-0P3Ng)  
 > 【其他】[线上版 PS -- PhotoPea](https://mp.weixin.qq.com/s/qWH7MmVRtMzIFPoAWebxJw)  
 > 【其他】[当历史被科技撞了一下腰](https://mp.weixin.qq.com/s/hbjj42sgmKipXkLlHOxHRA)  
