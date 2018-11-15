@@ -1,6 +1,12 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【其他】[你知道一条 SQL 语句是咋执行的吗](https://mp.weixin.qq.com/s/R7Egj5be-uMCkgK82io-Dw)  
+> 【其他】[一个活了 45 年的「愚蠢」 Bug](https://mp.weixin.qq.com/s/C6Qhs0zQXprJ4oLyYlGfEw)  
+> 【其他】[有人向我提了一个 Bug，说 5 分钟就可以搞定](https://mp.weixin.qq.com/s/Qnpg-0Hp_x8n6X_cQxWXqg)  
+> 【设计】[页面链接打开方式探讨](https://mp.weixin.qq.com/s/l5MbijpBwzruWPUuQ04MPg)  
+> 【设计】[避免作品画面“空”](https://mp.weixin.qq.com/s/aMAQ9kFHN31sDQV0MI3pYA)  
+> 【其他】[从关键词聚类的案例谈谈数据感](https://mp.weixin.qq.com/s/5jd7M9VScsXPWd8TDheukA)  
 > 【前端】[行内元素空白“消消乐”](https://mp.weixin.qq.com/s/rxkxLxHR4oKR-U-TzXXdpA)  
 > 【前端】[scoped 样式与 CSS Module 对比](https://mp.weixin.qq.com/s/fxqWZnkBEv_T0ULzEZa4yQ)  
 > 【前端】[30分钟精通 React Hooks](https://mp.weixin.qq.com/s/KRFYclPnkkdXbkJCSTohCw)  
