@@ -1,6 +1,20 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【其他】[从关键词聚类的案例谈谈数据感](https://mp.weixin.qq.com/s/5jd7M9VScsXPWd8TDheukA)  
+> 【设计】[想设计好按钮，你还差份最全的场景分析](https://mp.weixin.qq.com/s/OyS8W3WYRJcutsZc_4OrCA)  
+> 【其他】[赚钱，是中国的图腾](https://mp.weixin.qq.com/s/sXpeiXivd7Ra7tIqXWiy8A)  
+> 【设计】[Atomic Design 原子设计理论精华总结](https://mp.weixin.qq.com/s/jhW8IYQI3spSyEtZXNKUbQ)  
+> 【其他】[用Python爬了知乎“神回复”，笑得根本停不下来](https://mp.weixin.qq.com/s/xlhhipCtAnQOg1kYkCR-wg)  
+> 【前端】[WebAssembly 后 MVP 时代的未来](https://mp.weixin.qq.com/s/I-yzvECT9GX3yfzlfY09jg)  
+> 【前端】[如何通过 HSB 颜色模式构建夜间模式](https://mp.weixin.qq.com/s/wcy72YVvq12RiNTC2Lt_vA)  
+> 【前端】[ES6的Symbol竟然那么强大](https://mp.weixin.qq.com/s/xMGEYYJXgCG0yospIbBtpQ)  
+> 【前端】[彻底淘汰并消除 JavaScript 中的 this](https://mp.weixin.qq.com/s/mz6Z1Zcq-SxXQxHs2PegzQ)  
+> 【前端】[看看这些被同事喷的JS代码风格你写过多少](https://juejin.im/post/5becf928f265da61380ec986)  
+> 【设计】[看起来简约却难做的UI设计](https://mp.weixin.qq.com/s/ON4QiX4NtG7kDQQcUA3OuA)  
+> 【前端】[为什么都说富文本编辑器是天坑](https://www.zhihu.com/question/38699645)  
+> 【设计】[6 个 UI 背景设计趋势](https://mp.weixin.qq.com/s/ON4QiX4NtG7kDQQcUA3OuA)  
+> 【前端】[Web长列表的救星 - Virtual Scroller](https://mp.weixin.qq.com/s/uhqEqoESeBZ13kl6OEc9KQ)  
 > 【其他】[你知道一条 SQL 语句是咋执行的吗](https://mp.weixin.qq.com/s/R7Egj5be-uMCkgK82io-Dw)  
 > 【其他】[一个活了 45 年的「愚蠢」 Bug](https://mp.weixin.qq.com/s/C6Qhs0zQXprJ4oLyYlGfEw)  
 > 【其他】[有人向我提了一个 Bug，说 5 分钟就可以搞定](https://mp.weixin.qq.com/s/Qnpg-0Hp_x8n6X_cQxWXqg)  
