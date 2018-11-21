@@ -1,6 +1,16 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
+> 【前端】[JavaScript 和 WebAssembly 之间调用执行速度是如何变快的](https://mp.weixin.qq.com/s/TfEyuhyYMoL7o8RZM_brYg)  
+> 【其他】[腾讯如何突破大数据分析架构瓶颈](https://mp.weixin.qq.com/s/Y4MtwJsbGWx3XqajGV3ZpA)  
+> 【前端】[JavaScript 和 WebAssembly 之间调用执行速度是如何变快的](https://mp.weixin.qq.com/s/TfEyuhyYMoL7o8RZM_brYg)  
+> 【前端】[Google Photos Web UI 完善之旅](https://mp.weixin.qq.com/s/uc6ZQx0KRZfqJoT_VzUyFg)  
+> 【前端】[Javascript Decorators 和 AOP 编程](https://juejin.im/entry/5a12443951882512a860e93c)  
+> 【前端】[javascript中的依赖注入](https://www.cnblogs.com/pqjwyn/p/9850428.html)  
+> 【前端】[用AOP改善javascript代码](http://www.alloyteam.com/2013/08/yong-aop-gai-shan-javascript-dai-ma/)  
+> 【前端】[前端框架工具库博览馆](http://www.wheelsfactory.cn/)  
+> 【前端】[SVG 主题博客](http://svgtrick.com/)  
+> 【其他】[如何写出无法维护的代码](https://coolshell.cn/articles/4758.html)  
 > 【其他】[从关键词聚类的案例谈谈数据感](https://mp.weixin.qq.com/s/5jd7M9VScsXPWd8TDheukA)  
 > 【设计】[想设计好按钮，你还差份最全的场景分析](https://mp.weixin.qq.com/s/OyS8W3WYRJcutsZc_4OrCA)  
 > 【其他】[赚钱，是中国的图腾](https://mp.weixin.qq.com/s/sXpeiXivd7Ra7tIqXWiy8A)  
