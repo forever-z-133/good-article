@@ -1,7 +1,14 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 11 月 
-> 【前端】[JavaScript 和 WebAssembly 之间调用执行速度是如何变快的](https://mp.weixin.qq.com/s/TfEyuhyYMoL7o8RZM_brYg)  
+> 【其他】[计算即财富](https://mp.weixin.qq.com/s/4Wyafrl8ZQi_9yrBp0Fm4w)  
+> 【其他】[我们分析了67万个村名，找到了中国地名的秘密](https://mp.weixin.qq.com/s/2BvkgCRiVlMq5XHG7pR-4g)  
+> 【其他】[在这个现象面前，所有的屏幕都是马赛克](https://mp.weixin.qq.com/s/6Akgfr2MGtiRRnVYuwXsDw)  
+> 【前端】[JavaScript 社区的“smoosh门”事件](https://mp.weixin.qq.com/s/NwZhQ-jFuvjRXMNgJnZ8Eg)  
+> 【前端】[大白话解析 redux redux-thunk redux-saga 和 react-redux](https://juejin.im/entry/5bfcbc6351882551236e9b0e)  
+> 【前端】[设计模式之状态模式](https://juejin.im/entry/5bfd6f906fb9a049fa0f7478)  
+> 【前端】[微信小程序之登录态的探索](https://juejin.im/post/5bfcf861e51d4503fb447605)  
+> 【前端】[聊聊Flexbox布局中的flex的演算法](https://segmentfault.com/a/1190000017115802)  
 > 【其他】[腾讯如何突破大数据分析架构瓶颈](https://mp.weixin.qq.com/s/Y4MtwJsbGWx3XqajGV3ZpA)  
 > 【前端】[JavaScript 和 WebAssembly 之间调用执行速度是如何变快的](https://mp.weixin.qq.com/s/TfEyuhyYMoL7o8RZM_brYg)  
 > 【前端】[Google Photos Web UI 完善之旅](https://mp.weixin.qq.com/s/uc6ZQx0KRZfqJoT_VzUyFg)  
