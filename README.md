@@ -1,5 +1,13 @@
 # 收录觉得写得很棒的文章
 
+### 2018 年 12 月 
+> 【其他】[艾滋病交响诗](https://mp.weixin.qq.com/s/lyAWjgv6csAcKwxhl0KDHQ)  
+> 【前端】[MySQL：缓存算什么东西？！](https://mp.weixin.qq.com/s/XksJ4e81XCpRvvhvCGw6yA)  
+> 【其他】[瞄准最后一波人口红利](https://mp.weixin.qq.com/s/H988PYgNCLXvuahNgbIDDw)  
+> 【其他】[不拥抱算法的张小龙，还能带着微信继续避免失败？](https://mp.weixin.qq.com/s/NprnAFvJA4ormRGFANZu8Q)  
+> 【前端】[用JS写一个JS解释器](https://mp.weixin.qq.com/s/NRZQI-Md0dqNAGY96qsn-A)  
+> 【其他】[篡改NPM包盗取比特币始末](https://mp.weixin.qq.com/s/xXPAkfQkmkWWK_2HCyE7Mg)  
+
 ### 2018 年 11 月 
 > 【其他】[计算即财富](https://mp.weixin.qq.com/s/4Wyafrl8ZQi_9yrBp0Fm4w)  
 > 【其他】[我们分析了67万个村名，找到了中国地名的秘密](https://mp.weixin.qq.com/s/2BvkgCRiVlMq5XHG7pR-4g)  
