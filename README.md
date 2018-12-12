@@ -1,6 +1,9 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 12 月 
+> 【前端】[谨慎处理 Service Worker 的更新](https://mp.weixin.qq.com/s/BTTEjvLYDSFG6D5C-4uwtA)  
+> 【其他】[漫漫有“为”路](https://mp.weixin.qq.com/s/XknaHkdIVEx7Cd4wkePmkw)  
+> 【设计】[图文排版入门指南](https://mp.weixin.qq.com/s/QS4Qggo6E3Sh69cmW6TIXQ)  
 > 【其他】[艾滋病交响诗](https://mp.weixin.qq.com/s/lyAWjgv6csAcKwxhl0KDHQ)  
 > 【前端】[MySQL：缓存算什么东西？！](https://mp.weixin.qq.com/s/XksJ4e81XCpRvvhvCGw6yA)  
 > 【其他】[瞄准最后一波人口红利](https://mp.weixin.qq.com/s/H988PYgNCLXvuahNgbIDDw)  
