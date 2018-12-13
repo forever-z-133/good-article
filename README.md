@@ -1,6 +1,14 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 12 月 
+> 【其他】[糟糕是喜脉：验孕发展史](https://mp.weixin.qq.com/s/P_3kje7T2azVLvhTaNaQEw)  
+> 【其他】[设计师, 你懂消费心理学吗？](https://mp.weixin.qq.com/s/5aJXNMJUDADaVhg6vhMMaQ)  
+> 【产品】[为什么常见的5星评价系统不靠谱？](https://mp.weixin.qq.com/s/fAiRrMw-U-aWUN18eozFgg)  
+> 【其他】[为什么技术救不了Edge？](https://mp.weixin.qq.com/s/PP0iUN9zQdOwincMyAoseQ)  
+> 【前端】[CSS Selectors Level 4 中新增的选择器](https://mp.weixin.qq.com/s/g8JPPKvDO3S4wU5dzOSj9w)  
+> 【其他】[我们总是嘴上说着真爱，心里却做着比较](https://mp.weixin.qq.com/s/yGmajtWaWumBoHCPsk6P6w)  
+> 【前端】[从URL输入到页面展现到底发生什么](https://mp.weixin.qq.com/s/LWbF8dAmfDI4M7DeGQojbQ)  
+> 【前端】[Vue 性能优化之深挖数组](https://juejin.im/post/5c0dec8be51d451dac076f76)  
 > 【前端】[谨慎处理 Service Worker 的更新](https://mp.weixin.qq.com/s/BTTEjvLYDSFG6D5C-4uwtA)  
 > 【其他】[漫漫有“为”路](https://mp.weixin.qq.com/s/XknaHkdIVEx7Cd4wkePmkw)  
 > 【设计】[图文排版入门指南](https://mp.weixin.qq.com/s/QS4Qggo6E3Sh69cmW6TIXQ)  
