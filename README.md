@@ -1,6 +1,12 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 12 月 
+> 【人生】[我们总是嘴上说着真爱，心里却做着比较](https://mp.weixin.qq.com/s/yGmajtWaWumBoHCPsk6P6w)  
+> 【前端】[从URL输入到页面展现到底发生什么](https://mp.weixin.qq.com/s/LWbF8dAmfDI4M7DeGQojbQ)  
+> 【前端】[200行代码实现简版 React](https://mp.weixin.qq.com/s/CeWBamhjNhLCHwU4-RU3hw)  
+> 【其他】[欢迎进入付费时代](https://36kr.com/p/5166996.html?from=timeline&isappinstalled=0&tar_foid=)  
+> 【设计】[提高设计美感的七个套路](https://mp.weixin.qq.com/s/smaritM5eumm7gzF0AhNKg)  
+> 【前端】[框架与库的区别](https://www.zhihu.com/question/304757674/answer/546374749)  
 > 【其他】[糟糕是喜脉：验孕发展史](https://mp.weixin.qq.com/s/P_3kje7T2azVLvhTaNaQEw)  
 > 【其他】[设计师, 你懂消费心理学吗？](https://mp.weixin.qq.com/s/5aJXNMJUDADaVhg6vhMMaQ)  
 > 【产品】[为什么常见的5星评价系统不靠谱？](https://mp.weixin.qq.com/s/fAiRrMw-U-aWUN18eozFgg)  
