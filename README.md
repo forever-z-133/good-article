@@ -1,6 +1,10 @@
 # 收录觉得写得很棒的文章
 
 ### 2018 年 12 月 
+> 【前端】[你不知道的Chrome调试工具技巧](https://juejin.im/post/5c09a80151882521c81168a2)  
+> 【前端】[谨慎处理 Service Worker 的更新](https://zhuanlan.zhihu.com/p/51118741)  
+> 【前端】[换个角度看 JavaScript 中的 this](https://juejin.im/post/5c1c5bfcf265da614c4cc40e)  
+> 【前端】[让骨架屏更快渲染](https://zhuanlan.zhihu.com/p/34550387)  
 > 【人生】[我们总是嘴上说着真爱，心里却做着比较](https://mp.weixin.qq.com/s/yGmajtWaWumBoHCPsk6P6w)  
 > 【前端】[从URL输入到页面展现到底发生什么](https://mp.weixin.qq.com/s/LWbF8dAmfDI4M7DeGQojbQ)  
 > 【前端】[200行代码实现简版 React](https://mp.weixin.qq.com/s/CeWBamhjNhLCHwU4-RU3hw)  
