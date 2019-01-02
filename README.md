@@ -1,6 +1,23 @@
 # 收录觉得写得很棒的文章
 
+### 2019 年 1 月 
+> 【前端】[浏览器重绘重排与优化](https://mp.weixin.qq.com/s/89adJMwj-CT_1am_qfeutw)  
+> 【设计】[文字云生成器](https://mp.weixin.qq.com/s/F6slqRdbYVZilNbdpcBMQQ)  
+
 ### 2018 年 12 月 
+> 【其他】[2018 年度字：税](https://mp.weixin.qq.com/s/wKb_TJhXPtnAp289CjVlJg)  
+> 【前端】[变量命名神器](https://mp.weixin.qq.com/s/ZCOjOCjO3mByWPOJP5kGXA)  
+> 【其他】[张小龙其实7年都没变](https://mp.weixin.qq.com/s/XaHwBMKKfq4AxWYm8kdlrQ)  
+> 【设计】[那些光照不到的地方](https://mp.weixin.qq.com/s/Hwpztxf1DauuzhBiXzufBg)  
+> 【前端】[关键渲染路径](https://mp.weixin.qq.com/s/VPm771Xs2G4Vg3J8A2A11A)  
+> 【其他】[日本数学鬼才的幻象魔术](https://mp.weixin.qq.com/s/WRqBQWLtO-ESbLjqb1KiPA)  
+> 【设计】[设计中的英文有哪些妙用？](https://mp.weixin.qq.com/s/iBVQyZWdLZpRjKbVTZ5npQ)  
+> 【设计】[文字排版技巧——对齐](https://mp.weixin.qq.com/s/4zBpFCTo6Vlc4FZ1VBfg7Q)  
+> 【前端】[5分钟图解Hbase列式存储](https://mp.weixin.qq.com/s/Vz0hqjA3fFk-xPGCwzMPWQ)  
+> 【前端】[寻找无序数组的第k大元素](https://mp.weixin.qq.com/s/1Y6yLuErGhDE0bA_M8mEjg)  
+> 【前端】[React 的今天和明天 vol.2](https://mp.weixin.qq.com/s/Fbn7R6okX2PvHDztXbC4Xg)  
+> 【前端】[quicklink：实现原理与给前端的启发](https://mp.weixin.qq.com/s/Xinmsxl55TCrS7loJJsV9w)  
+> 【前端】[异步复杂度要到什么程度才需要用到Rxjs](https://www.zhihu.com/question/303073602/answer/543082088)  
 > 【前端】[你不知道的Chrome调试工具技巧](https://juejin.im/post/5c09a80151882521c81168a2)  
 > 【前端】[谨慎处理 Service Worker 的更新](https://zhuanlan.zhihu.com/p/51118741)  
 > 【前端】[换个角度看 JavaScript 中的 this](https://juejin.im/post/5c1c5bfcf265da614c4cc40e)  
