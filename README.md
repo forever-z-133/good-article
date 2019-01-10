@@ -1,6 +1,22 @@
 # 收录觉得写得很棒的文章
 
-### 2019 年 1 月 
+### 2019 年 1 月
+> 【前端】[quicklink：实现原理与给前端的启发](https://mp.weixin.qq.com/s/Xinmsxl55TCrS7loJJsV9w)  
+> 【其他】[为什么星巴克的员工都不太热情](https://mp.weixin.qq.com/s/hX-401yoXPApGUpI_ujtBw)  
+> 【其他】[短信诈骗背后技术原理](https://mp.weixin.qq.com/s/8bSu6Bx_IsdxDoJT7tsjxQ)  
+> 【其他】[中国互联网二十四年红黑史](https://mp.weixin.qq.com/s/ENLB7-fZHCH5gBTbUjOU0g)  
+> 【前端】[如何给女朋友解释什么是负载均衡](https://mp.weixin.qq.com/s/ZeOhi_6_hJwju5xnHQNi4Q)  
+> 【前端】[什么是字符集和编码](https://mp.weixin.qq.com/s/NDl0BwrA23_7VViKfV2mvA)  
+> 【前端】[JavaScript性能优化之摇树](https://mp.weixin.qq.com/s/3maI-GFD4Cilt6GSSzRgwQ)  
+> 【前端】[webpack loader机制源码解析](https://mp.weixin.qq.com/s/tUw_okkCRnvr3NNEgHk3Ew)  
+> 【前端】[谈谈CSS Shapes](https://mp.weixin.qq.com/s/kA15kDdc_psRnLL70VRIdw)  
+> 【前端】[再也不用担心给女朋友拍照了](https://mp.weixin.qq.com/s/ndYvL4V-YOBZe52Zr83maQ)  
+> 【前端】[CSS 与网络性能](https://mp.weixin.qq.com/s/nh8szqQaeLNOU6uGg5gc_Q)  
+> 【前端】[张小龙4小时演讲全文](https://mp.weixin.qq.com/s/ZvLXpd0QF0BxBRg8I6AQ9g)  
+> 【前端】[CSS 动作路径标准 Motion Path 简介](https://mp.weixin.qq.com/s/FcCsrqhiNDTXcxgfV7UwSQ)  
+> 【前端】[应对流量劫持，前端能做哪些工作](https://www.zhihu.com/question/35720092/answer/523563873)  
+> 【前端】[React 懒加载与执行上下文](https://juejin.im/post/5c32bc61e51d4552122c8336)  
+> 【前端】[(?<=p)与:nth-child()的相似性分析](https://juejin.im/post/5c2da434e51d45467145251a)  
 > 【前端】[浏览器重绘重排与优化](https://mp.weixin.qq.com/s/89adJMwj-CT_1am_qfeutw)  
 > 【设计】[文字云生成器](https://mp.weixin.qq.com/s/F6slqRdbYVZilNbdpcBMQQ)  
 
